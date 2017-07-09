@@ -1,0 +1,5 @@
+﻿  petrone.cpp
+c:\program files (x86)\windows kits\8.1\include\um\bthledef.h(445): warning C4068: 알 수 없는 pragma입니다.
+c:\users\myungsup\desktop\petrone ble console sample c++\petrone ble console sample c++\petrone.cpp(51): warning C4554: '<<': 연산자 우선 순위에 오류가 있는지 확인하십시오. 괄호를 사용하여 우선 순위를 명확하게 지정하십시오.
+  Petrone BLE Console Sample C++.vcxproj -> C:\Users\Myungsup\Desktop\Petrone BLE Console Sample C++\Debug\Petrone BLE Console Sample C++.exe
+  Petrone BLE Console Sample C++.vcxproj -> C:\Users\Myungsup\Desktop\Petrone BLE Console Sample C++\Debug\Petrone BLE Console Sample C++.pdb (Full PDB)
