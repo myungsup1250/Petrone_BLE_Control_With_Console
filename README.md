@@ -49,7 +49,7 @@ How to use this Project with git
 
 3. Clone this repo
 
-> git clone https://github.com/myungsup1250/Petrone-BLE-Control.git
+> git clone https://github.com/myungsup1250/Petrone_BLE_Control_With_Console.git 
 
 Then you will have our Project in your computer
 
